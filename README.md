@@ -1,6 +1,6 @@
 # Sudoko Solver
 
-A Perl one-line to solve Sudoko puzzles. This program uses an optimized _Brute Force Search_ to solve the Sudoko in only 88 interations.
+A Perl "one-liner" to solve Sudoko puzzles. This program uses an optimized _Brute Force Search_ to solve the Sudoko in only 88 interations.
 
 [1] https://en.wikipedia.org/wiki/Sudoku_solving_algorithms
 
